@@ -1,0 +1,25 @@
+*{ 
+    font-family: 'Poppins', sans-serif;  
+    color: #0a2ff1;
+}
+
+h1 {
+    font-size: 79px; 
+}
+
+span { 
+    background-color: #3ffff3;
+}
+
+p { 
+    font-size: 23pt;
+}
+
+img { 
+    width: 350px;
+    background-image:url(/img/fondo.JPG);
+}
+
+
+
+
